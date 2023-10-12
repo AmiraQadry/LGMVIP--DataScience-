@@ -30,6 +30,17 @@ Identify the hot zones by analyzing the geographical distribution of terrorist a
 ## Dashboard
 ![](https://github.com/AmiraQadry/LGMVIP--DataScience-/blob/main/Task-1-Exploratory%20Data%20Analysis%20on%20Dataset%20-%20Terrorism/Exploratory%20Data%20Analysis%20on%20Dataset%20-%20Terrorism.png)
 
+# The Analysis' Results:
+
+### After observing many charts, Reached the following conclusions:
+
+1. The country most vulnerable to attack: Iraq
+2. The State most vulnerable to attack: Baghdad
+3. The region most vulnerable to attack: South Asia
+4. Most types of targets in attacks: Violent Political Party
+6. The type of weapon most often used in attacks: Explosives
+6. The year that witnessed the largest number of attacks: 2011
+   
 ## Conclusion
 By following this readme, you can perform exploratory data analysis on a [Global Terrorism Dataset (GTD)](https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view) and 
 identify the hot zones of terrorism. This analysis can provide valuable insights for security defense analysts in understanding the regions or countries with the highest number of terrorist attacks.
