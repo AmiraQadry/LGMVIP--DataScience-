@@ -27,6 +27,9 @@ Perform any necessary data cleaning and preprocessing steps based on the specifi
 ### 4. Analyze the hot zones
 Identify the hot zones by analyzing the geographical distribution of terrorist attacks. You can group the data by region or country and calculate the frequency of attacks in each region.
 
+## Dashboard
+![](https://github.com/AmiraQadry/LGMVIP--DataScience-/blob/main/Task-1-Exploratory%20Data%20Analysis%20on%20Dataset%20-%20Terrorism/Exploratory%20Data%20Analysis%20on%20Dataset%20-%20Terrorism.png)
+
 ## Conclusion
 By following this readme, you can perform exploratory data analysis on a [Global Terrorism Dataset (GTD)](https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view) and 
 identify the hot zones of terrorism. This analysis can provide valuable insights for security defense analysts in understanding the regions or countries with the highest number of terrorist attacks.
